@@ -1,0 +1,38 @@
++-----------------------+-------+---------+--------------------------+
+| Material List for schematic 'Cleric Trading Hall' (1 of 1 regions) |
++-----------------------+-------+---------+--------------------------+
+| Item                  | Total | Missing |                Available |
++-----------------------+-------+---------+--------------------------+
+| Cherry Log            |   466 |     466 |                        0 |
+| Smooth Quartz Slab    |   421 |     421 |                        0 |
+| Stripped Dark Oak Log |   418 |     418 |                        0 |
+| Smooth Quartz Stairs  |   360 |     360 |                        0 |
+| Smooth Quartz Block   |   334 |     334 |                        0 |
+| Pale Oak Shelf        |   272 |     272 |                        0 |
+| White Terracotta      |   178 |     178 |                        0 |
+| Water Bucket          |   162 |     162 |                        0 |
+| Redstone Lamp         |   139 |     139 |                        0 |
+| Dark Oak Log          |   136 |     136 |                        0 |
+| Bone Block            |   116 |     116 |                        0 |
+| Crimson Stairs        |   116 |     116 |                        0 |
+| Grass Block           |    80 |      80 |                        0 |
+| Lever                 |    72 |      72 |                        0 |
+| Stripped Pale Oak Log |    65 |      65 |                        0 |
+| Quartz Pillar         |    40 |      40 |                        0 |
+| Brewing Stand         |    34 |      34 |                        0 |
+| White Stained Glass   |    30 |      30 |                        0 |
+| Iron Trapdoor         |    27 |      27 |                        0 |
+| Crafting Table        |    17 |      17 |                        0 |
+| Pale Oak Trapdoor     |    17 |      17 |                        0 |
+| Ladder                |     9 |       9 |                        0 |
+| Stone Bricks          |     5 |       5 |                        0 |
+| Redstone Dust         |     4 |       4 |                        0 |
+| Block of Redstone     |     1 |       1 |                        0 |
+| Cherry Wood           |     1 |       1 |                        0 |
+| Crimson Button        |     1 |       1 |                        0 |
+| Redstone Repeater     |     1 |       1 |                        0 |
+| Redstone Torch        |     1 |       1 |                        0 |
+| Sticky Piston         |     1 |       1 |                        0 |
++-----------------------+-------+---------+--------------------------+
+| Item                  | Total | Missing |                Available |
++-----------------------+-------+---------+--------------------------+

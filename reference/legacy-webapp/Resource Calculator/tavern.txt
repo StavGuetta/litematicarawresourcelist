@@ -1,0 +1,82 @@
++-------------------------------+-------+---------+-------------------+
+| Material List for schematic 'Tavern/inn (brewing)' (1 of 1 regions) |
++-------------------------------+-------+---------+-------------------+
+| Item                          | Total | Missing |         Available |
++-------------------------------+-------+---------+-------------------+
+| Stripped Spruce Log           |   368 |     368 |                 0 |
+| Stone Bricks                  |   313 |     313 |                 0 |
+| Spruce Stairs                 |   275 |     275 |                 0 |
+| Spruce Planks                 |   225 |     225 |                 0 |
+| Spruce Trapdoor               |   156 |     156 |                 0 |
+| Dark Oak Stairs               |   125 |     125 |                 0 |
+| Dark Oak Slab                 |   115 |     115 |                 0 |
+| Oak Planks                    |   102 |     102 |                 0 |
+| Stripped Oak Log              |   100 |     100 |                 0 |
+| Dark Oak Planks               |    76 |      76 |                 0 |
+| Calcite                       |    73 |      73 |                 0 |
+| Deepslate Tiles               |    72 |      72 |                 0 |
+| Blackstone Stairs             |    70 |      70 |                 0 |
+| Deepslate Tile Stairs         |    70 |      70 |                 0 |
+| Gray Carpet                   |    65 |      65 |                 0 |
+| Diorite                       |    61 |      61 |                 0 |
+| White Carpet                  |    59 |      59 |                 0 |
+| Lantern                       |    56 |      56 |                 0 |
+| Oak Trapdoor                  |    52 |      52 |                 0 |
+| Blackstone                    |    48 |      48 |                 0 |
+| Light Blue Stained Glass Pane |    47 |      47 |                 0 |
+| Diorite Wall                  |    44 |      44 |                 0 |
+| Dark Oak Trapdoor             |    30 |      30 |                 0 |
+| Andesite                      |    28 |      28 |                 0 |
+| Stone Brick Stairs            |    28 |      28 |                 0 |
+| Deepslate Tile Wall           |    24 |      24 |                 0 |
+| Spruce Slab                   |    24 |      24 |                 0 |
+| Grass Block                   |    22 |      22 |                 0 |
+| Spruce Fence                  |    20 |      20 |                 0 |
+| Flower Pot                    |    18 |      18 |                 0 |
+| Barrel                        |    16 |      16 |                 0 |
+| Spruce Fence Gate             |    16 |      16 |                 0 |
+| Candle                        |    14 |      14 |                 0 |
+| Polished Andesite             |    14 |      14 |                 0 |
+| Blackstone Slab               |    13 |      13 |                 0 |
+| Polished Deepslate Stairs     |    12 |      12 |                 0 |
+| Stone Brick Wall              |    12 |      12 |                 0 |
+| Torch                         |    12 |      12 |                24 |
+| Deepslate Tile Slab           |    11 |      11 |                 0 |
+| Brown Carpet                  |    10 |      10 |                 0 |
+| Gray Wool                     |    10 |      10 |                 0 |
+| Stone Button                  |    10 |      10 |                 0 |
+| Campfire                      |     8 |       8 |                 0 |
+| Chest                         |     8 |       8 |                 0 |
+| Dead Bush                     |     8 |       8 |                 0 |
+| Polished Deepslate            |     8 |       8 |                 0 |
+| Spruce Pressure Plate         |     8 |       8 |                 0 |
+| Azalea Leaves                 |     7 |       7 |                 0 |
+| Blue Orchid                   |     7 |       7 |                 0 |
+| Dark Oak Fence                |     6 |       6 |                 0 |
+| Dark Oak Fence Gate           |     6 |       6 |                 0 |
+| White Wool                    |     6 |       6 |                 0 |
+| Beehive                       |     5 |       5 |                 0 |
+| Brewing Stand                 |     5 |       5 |                 0 |
+| Cornflower                    |     5 |       5 |                 0 |
+| Sea Pickle                    |     5 |       5 |                 0 |
+| Azure Bluet                   |     4 |       4 |                 0 |
+| Poppy                         |     4 |       4 |                 0 |
+| Short Grass                   |     4 |       4 |                 0 |
+| Bookshelf                     |     3 |       3 |                 0 |
+| Spruce Door                   |     3 |       3 |                 0 |
+| Tripwire Hook                 |     3 |       3 |                 0 |
+| White Bed                     |     3 |       3 |                 0 |
+| Dandelion                     |     2 |       2 |                 0 |
+| Flowering Azalea              |     2 |       2 |                 0 |
+| Oak Door                      |     2 |       2 |                 0 |
+| Oak Stairs                    |     2 |       2 |                 0 |
+| Oxeye Daisy                   |     2 |       2 |                 0 |
+| Smoker                        |     2 |       2 |                 0 |
+| Water Bucket                  |     2 |       2 |                 1 |
+| White Banner                  |     2 |       2 |                 0 |
+| Flowering Azalea Leaves       |     1 |       1 |                 0 |
+| Spruce Hanging Sign           |     1 |       1 |                 0 |
+| Stripped Spruce Wood          |     1 |       1 |                 0 |
++-------------------------------+-------+---------+-------------------+
+| Item                          | Total | Missing |         Available |
++-------------------------------+-------+---------+-------------------+

@@ -1,0 +1,24 @@
+{
+	"schemaVersion": 1,
+	"id": "litematicarawresourcelist",
+	"version": "${version}",
+	"name": "Litematica Raw Resource List",
+	"description": "Reads Litematica schematics to help builders plan material requirements in-game.",
+	"authors": [
+		"Stav Guetta"
+	],
+	"contact": {},
+	"license": "MIT",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"dev.StavGuetta.litematicarawresourcelist.LitematicaRawResourceListClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

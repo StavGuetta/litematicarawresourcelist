@@ -1,0 +1,41 @@
++----------------------------------+-------+---------+------------------------+
+| Material List for schematic 'Guardian farm overworld side' (1 of 1 regions) |
++----------------------------------+-------+---------+------------------------+
+| Item                             | Total | Missing |              Available |
++----------------------------------+-------+---------+------------------------+
+| Stone Stairs                     | 22344 |   22344 |                      0 |
+| Water Bucket                     | 22344 |   22344 |                      1 |
+| Cyan Stained Glass               | 13216 |   13216 |                      0 |
+| Blackstone                       |  9459 |    9459 |                      0 |
+| White Stained Glass              |  7879 |    7879 |                      0 |
+| Obsidian                         |  7408 |    7408 |                      0 |
+| Purple Concrete                  |  4116 |    4116 |                      0 |
+| Warped Hyphae                    |  3855 |    3855 |                      0 |
+| Black Concrete                   |  3182 |    3182 |                      0 |
+| Black Wool                       |  3121 |    3121 |                      0 |
+| Sea Lantern                      |  2510 |    2510 |                      0 |
+| Gray Concrete                    |  2440 |    2440 |                      0 |
+| Polished Blackstone Bricks       |  2297 |    2297 |                      0 |
+| Shroomlight                      |  1802 |    1802 |                      0 |
+| Magenta Stained Glass            |  1562 |    1562 |                      0 |
+| Smooth Quartz Slab               |  1393 |    1393 |                      0 |
+| Gray Stained Glass               |  1379 |    1379 |                      0 |
+| Nether Bricks                    |  1259 |    1259 |                      0 |
+| Gray Wool                        |  1089 |    1089 |                      0 |
+| Basalt                           |   992 |     992 |                      0 |
+| Magenta Stained Glass Pane       |   952 |     952 |                      0 |
+| Magenta Concrete                 |   553 |     553 |                      0 |
+| Purple Stained Glass             |   401 |     401 |                      0 |
+| Blackstone Slab                  |   320 |     320 |                      0 |
+| Polished Blackstone Brick Stairs |   229 |     229 |                      0 |
+| Black Stained Glass              |   205 |     205 |                      0 |
+| End Rod                          |    96 |      96 |                      0 |
+| Light Blue Stained Glass Pane    |    71 |      71 |                      0 |
+| Black Carpet                     |    34 |      34 |                      0 |
+| Torch                            |    34 |      34 |                     42 |
+| Purple Carpet                    |     4 |       4 |                      0 |
+| Glow Lichen                      |     1 |       1 |                      0 |
+| Red Stained Glass                |     1 |       1 |                      0 |
++----------------------------------+-------+---------+------------------------+
+| Item                             | Total | Missing |              Available |
++----------------------------------+-------+---------+------------------------+

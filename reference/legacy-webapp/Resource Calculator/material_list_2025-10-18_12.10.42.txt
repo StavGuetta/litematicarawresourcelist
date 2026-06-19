@@ -1,0 +1,74 @@
++----------------------------------+-------+---------+-----------+
+| Material List for placement 'Trading Hall'                     |
++----------------------------------+-------+---------+-----------+
+| Item                             | Total | Missing | Available |
++----------------------------------+-------+---------+-----------+
+| Dark Oak Slab                    |  1624 |    1624 |         0 |
+| Spruce Trapdoor                  |  1530 |    1530 |         0 |
+| Dark Oak Planks                  |   935 |     935 |         0 |
+| Stripped Dark Oak Log            |   893 |     893 |         0 |
+| Spruce Stairs                    |   831 |     831 |         0 |
+| Polished Deepslate               |   263 |     263 |         0 |
+| Oak Log                          |   260 |     260 |         0 |
+| Stripped Spruce Log              |   218 |     218 |         0 |
+| Gray Carpet                      |   180 |     180 |         0 |
+| Bedrock                          |   178 |     178 |         0 |
+| Red Carpet                       |   171 |     171 |         0 |
+| Dark Oak Stairs                  |   169 |     169 |         0 |
+| Stone                            |   148 |     148 |         0 |
+| Polished Basalt                  |   126 |     126 |         0 |
+| Polished Blackstone Stairs       |   117 |     117 |         0 |
+| Bookshelf                        |   114 |     114 |         0 |
+| Spruce Slab                      |   112 |     112 |         0 |
+| Lantern                          |   109 |     109 |         0 |
+| Blast Furnace                    |    86 |      86 |         0 |
+| Barrel                           |    76 |      76 |         0 |
+| Polished Tuff Stairs             |    75 |      75 |         0 |
+| Polished Blackstone              |    72 |      72 |         0 |
+| Bricks                           |    70 |      70 |         0 |
+| Grass Block                      |    64 |      12 |         0 |
+| Polished Blackstone Brick Stairs |    63 |      63 |         0 |
+| Deepslate Tile Stairs            |    60 |      60 |         0 |
+| Acacia Stairs                    |    55 |      55 |         0 |
+| Bamboo Stairs                    |    45 |      45 |         0 |
+| Spruce Fence                     |    40 |      40 |         0 |
+| Crimson Stem                     |    38 |      38 |         0 |
+| Shroomlight                      |    38 |      38 |         0 |
+| Spruce Planks                    |    37 |      37 |         0 |
+| Polished Tuff                    |    34 |      34 |         0 |
+| Deepslate Tiles                  |    32 |      32 |         0 |
+| Bamboo Planks                    |    30 |      30 |         0 |
+| Moss Carpet                      |    28 |      28 |         0 |
+| Redstone Dust                    |    26 |      26 |         0 |
+| Stone Pressure Plate             |    26 |      26 |         0 |
+| Smooth Quartz Stairs             |    25 |      25 |         0 |
+| Azalea                           |    24 |      24 |         0 |
+| Stone Bricks                     |    24 |      24 |         0 |
+| Glowstone                        |    23 |      23 |         0 |
+| Smooth Quartz Block              |    20 |      20 |         0 |
+| Lectern                          |    19 |      19 |         0 |
+| Oak Sign                         |    19 |      19 |         0 |
+| Oak Wood                         |    19 |      19 |         0 |
+| Chiseled Polished Blackstone     |    18 |      18 |         0 |
+| Torch                            |    18 |      18 |        62 |
+| Flowering Azalea                 |    16 |      16 |         0 |
+| Bamboo Trapdoor                  |    15 |      15 |         0 |
+| Pale Oak Trapdoor                |    15 |      15 |         0 |
+| Slime Block                      |    13 |      13 |         0 |
+| Sticky Piston                    |    13 |      13 |         0 |
+| Stripped Dark Oak Wood           |    12 |      12 |         0 |
+| Block of Stripped Bamboo         |    10 |      10 |         0 |
+| Quartz Pillar                    |    10 |      10 |         0 |
+| Warped Trapdoor                  |     9 |       9 |         0 |
+| Chiseled Tuff Bricks             |     8 |       8 |         0 |
+| Smithing Table                   |     7 |       7 |         0 |
+| Composter                        |     5 |       5 |         0 |
+| Deepslate Tile Wall              |     5 |       5 |         0 |
+| Iron Trapdoor                    |     5 |       5 |         0 |
+| Oak Trapdoor                     |     5 |       5 |         0 |
+| Stonecutter                      |     5 |       5 |         0 |
+| Deepslate Tile Slab              |     4 |       4 |         0 |
+| Polished Tuff Slab               |     4 |       4 |         0 |
++----------------------------------+-------+---------+-----------+
+| Item                             | Total | Missing | Available |
++----------------------------------+-------+---------+-----------+

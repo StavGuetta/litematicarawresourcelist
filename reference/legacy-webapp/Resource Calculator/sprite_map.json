@@ -1,0 +1,789 @@
+{
+  "mapping": {
+    "minecraft:spruce_sapling": {
+      "x": 1444,
+      "y": 380
+    },
+    "minecraft:dark_oak_sapling": {
+      "x": 1596,
+      "y": 380
+    },
+    "minecraft:jungle_sapling": {
+      "x": 1520,
+      "y": 380
+    },
+    "minecraft:dark_oak_door": {
+      "x": 304,
+      "y": 38
+    },
+    "minecraft:bowl": {
+      "x": 2470,
+      "y": 646
+    },
+    "minecraft:echo_shard": {
+      "x": 1786,
+      "y": 646
+    },
+    "minecraft:tube_coral": {
+      "x": 2242,
+      "y": 418
+    },
+    "minecraft:nether_brick": {
+      "x": 38,
+      "y": 684
+    },
+    "minecraft:redstone": {
+      "x": 2280,
+      "y": 494
+    },
+    "minecraft:hopper": {
+      "x": 304,
+      "y": 532
+    },
+    "minecraft:mangrove_door": {
+      "x": 798,
+      "y": 38
+    },
+    "minecraft:acacia_door": {
+      "x": 2318,
+      "y": 0
+    },
+    "minecraft:crimson_door": {
+      "x": 304,
+      "y": 76
+    },
+    "minecraft:apple": {
+      "x": 1178,
+      "y": 608
+    },
+    "minecraft:dark_oak_boat": {
+      "x": 1482,
+      "y": 570
+    },
+    "minecraft:netherite_chestplate": {
+      "x": 532,
+      "y": 608
+    },
+    "minecraft:mangrove_sign": {
+      "x": 1026,
+      "y": 494
+    },
+    "minecraft:warped_sign": {
+      "x": 1406,
+      "y": 494
+    },
+    "minecraft:paper": {
+      "x": 114,
+      "y": 684
+    },
+    "minecraft:bone": {
+      "x": 950,
+      "y": 646
+    },
+    "minecraft:green_dye": {
+      "x": 2204,
+      "y": 646
+    },
+    "minecraft:cake": {
+      "x": 2318,
+      "y": 608
+    },
+    "minecraft:cooked_mutton": {
+      "x": 1824,
+      "y": 608
+    },
+    "minecraft:pitcher_pod": {
+      "x": 1520,
+      "y": 418
+    },
+    "minecraft:red_candle": {
+      "x": 2394,
+      "y": 304
+    },
+    "minecraft:pointed_dripstone": {
+      "x": 1824,
+      "y": 342
+    },
+    "minecraft:lever": {
+      "x": 2432,
+      "y": 494
+    },
+    "minecraft:sniffer_egg": {
+      "x": 1254,
+      "y": 418
+    },
+    "minecraft:mangrove_hanging_sign": {
+      "x": 1064,
+      "y": 494
+    },
+    "minecraft:map": {
+      "x": 798,
+      "y": 570
+    },
+    "minecraft:heart_of_the_sea": {
+      "x": 1520,
+      "y": 646
+    },
+    "minecraft:dried_kelp": {
+      "x": 1596,
+      "y": 608
+    }
+  },
+  "blacklist": {
+    "minecraft:gray_stained_glass": [
+      "22_18"
+    ],
+    "minecraft:tide_armor_trim_smithing_template": [
+      "18_18"
+    ],
+    "minecraft:lapis_block": [
+      "13_18",
+      "11_8"
+    ],
+    "minecraft:feather": [
+      "3_17"
+    ],
+    "minecraft:anvil": [
+      "7_17"
+    ],
+    "minecraft:creeper_banner_pattern": [
+      "15_17"
+    ],
+    "minecraft:plenty_pottery_sherd": [
+      "17_17",
+      "7_13"
+    ],
+    "minecraft:copper_block": [
+      "22_17"
+    ],
+    "minecraft:spruce_sign": [
+      "37_17",
+      "25_13"
+    ],
+    "minecraft:cooked_porkchop": [
+      "38_17"
+    ],
+    "minecraft:ender_pearl": [
+      "40_17"
+    ],
+    "minecraft:pink_stained_glass": [
+      "44_17"
+    ],
+    "minecraft:fire_charge": [
+      "64_16"
+    ],
+    "minecraft:soul_campfire": [
+      "45_16"
+    ],
+    "minecraft:sugar": [
+      "35_16"
+    ],
+    "minecraft:stick": [
+      "29_16"
+    ],
+    "minecraft:eye_armor_trim_smithing_template": [
+      "25_16"
+    ],
+    "minecraft:lime_shulker_box": [
+      "24_16",
+      "16_8"
+    ],
+    "minecraft:mangrove_boat": [
+      "19_16"
+    ],
+    "minecraft:blue_candle": [
+      "7_16",
+      "11_9"
+    ],
+    "minecraft:farmland": [
+      "4_16"
+    ],
+    "minecraft:netherite_helmet": [
+      "59_15",
+      "45_4"
+    ],
+    "minecraft:cherry_trapdoor": [
+      "61_15",
+      "24_4"
+    ],
+    "minecraft:brown_candle": [
+      "62_15",
+      "13_9"
+    ],
+    "minecraft:netherite_sword": [
+      "44_14"
+    ],
+    "minecraft:chorus_flower": [
+      "26_14"
+    ],
+    "minecraft:green_shulker_box": [
+      "18_14",
+      "24_16"
+    ],
+    "minecraft:blue_shulker_box": [
+      "16_14"
+    ],
+    "minecraft:polished_blackstone_bricks": [
+      "11_14"
+    ],
+    "minecraft:bamboo_planks": [
+      "0_13"
+    ],
+    "minecraft:twisting_vines": [
+      "5_13"
+    ],
+    "minecraft:mourner_pottery_sherd": [
+      "7_13"
+    ],
+    "minecraft:oak_trapdoor": [
+      "11_13"
+    ],
+    "minecraft:acacia_sign": [
+      "25_13"
+    ],
+    "minecraft:crimson_hanging_sign": [
+      "28_13"
+    ],
+    "minecraft:polished_deepslate": [
+      "31_13"
+    ],
+    "minecraft:heavy_core": [
+      "32_13"
+    ],
+    "minecraft:weathered_copper_grate": [
+      "34_13",
+      "13_8"
+    ],
+    "minecraft:weathered_copper_bulb": [
+      "35_13"
+    ],
+    "minecraft:gunpowder": [
+      "45_13",
+      "11_2"
+    ],
+    "minecraft:redstone_block": [
+      "46_13",
+      "19_16"
+    ],
+    "minecraft:sea_pickle": [
+      "62_13"
+    ],
+    "minecraft:cherry_door": [
+      "62_12"
+    ],
+    "minecraft:dune_armor_trim_smithing_template": [
+      "53_12"
+    ],
+    "minecraft:white_shulker_box": [
+      "47_12"
+    ],
+    "minecraft:cooked_beef": [
+      "43_12",
+      "42_16"
+    ],
+    "minecraft:glass": [
+      "40_12",
+      "8_8"
+    ],
+    "minecraft:turtle_egg": [
+      "39_12"
+    ],
+    "minecraft:purple_stained_glass": [
+      "38_12"
+    ],
+    "minecraft:iron_block": [
+      "36_12"
+    ],
+    "minecraft:pink_tulip": [
+      "35_12"
+    ],
+    "minecraft:mushroom_stem": [
+      "29_12"
+    ],
+    "minecraft:mossy_stone_bricks": [
+      "12_12"
+    ],
+    "minecraft:fermented_spider_eye": [
+      "4_11",
+      "46_13"
+    ],
+    "minecraft:beacon": [
+      "6_11"
+    ],
+    "minecraft:copper_grate": [
+      "9_11",
+      "24_16"
+    ],
+    "minecraft:white_candle": [
+      "17_11"
+    ],
+    "minecraft:red_dye": [
+      "27_11",
+      "55_10"
+    ],
+    "minecraft:cut_red_sandstone": [
+      "36_11",
+      "18_8"
+    ],
+    "minecraft:yellow_candle": [
+      "46_11"
+    ],
+    "minecraft:polished_blackstone": [
+      "64_11",
+      "38_2"
+    ],
+    "minecraft:rib_armor_trim_smithing_template": [
+      "63_10"
+    ],
+    "minecraft:mangrove_trapdoor": [
+      "62_10"
+    ],
+    "minecraft:oxeye_daisy": [
+      "61_10"
+    ],
+    "minecraft:oxidized_cut_copper": [
+      "57_10"
+    ],
+    "minecraft:saddle": [
+      "55_10"
+    ],
+    "minecraft:chiseled_red_sandstone": [
+      "52_10"
+    ],
+    "minecraft:seagrass": [
+      "50_10"
+    ],
+    "minecraft:dark_oak_sign": [
+      "45_10"
+    ],
+    "minecraft:weathered_cut_copper": [
+      "39_10"
+    ],
+    "minecraft:sea_lantern": [
+      "8_9"
+    ],
+    "minecraft:purple_candle": [
+      "11_9",
+      "46_11"
+    ],
+    "minecraft:green_candle": [
+      "17_9",
+      "46_11"
+    ],
+    "minecraft:painting": [
+      "41_9",
+      "23_12"
+    ],
+    "minecraft:small_amethyst_bud": [
+      "43_9"
+    ],
+    "minecraft:deepslate_bricks": [
+      "58_9",
+      "10_5"
+    ],
+    "minecraft:birch_door": [
+      "65_8"
+    ],
+    "minecraft:gray_candle": [
+      "61_8"
+    ],
+    "minecraft:stripped_oak_log": [
+      "58_8"
+    ],
+    "minecraft:stripped_warped_stem": [
+      "57_8"
+    ],
+    "minecraft:wild_armor_trim_smithing_template": [
+      "49_8"
+    ],
+    "minecraft:crimson_sign": [
+      "48_8",
+      "25_13"
+    ],
+    "minecraft:bubble_coral": [
+      "44_8",
+      "61_12"
+    ],
+    "minecraft:black_dye": [
+      "42_8"
+    ],
+    "minecraft:dried_kelp": [
+      "41_8"
+    ],
+    "minecraft:charcoal": [
+      "28_8",
+      "10_1"
+    ],
+    "minecraft:lightning_rod": [
+      "23_8"
+    ],
+    "minecraft:magenta_stained_glass": [
+      "22_8"
+    ],
+    "minecraft:weathered_copper_trapdoor": [
+      "21_8"
+    ],
+    "minecraft:exposed_copper_trapdoor": [
+      "20_8"
+    ],
+    "minecraft:oxidized_copper": [
+      "18_8",
+      "12_8"
+    ],
+    "minecraft:weathered_copper": [
+      "17_8",
+      "34_13"
+    ],
+    "minecraft:lime_stained_glass": [
+      "16_8"
+    ],
+    "minecraft:yellow_stained_glass": [
+      "15_8",
+      "8_8"
+    ],
+    "minecraft:diamond_block": [
+      "14_8"
+    ],
+    "minecraft:polished_granite": [
+      "13_8",
+      "31_13"
+    ],
+    "minecraft:polished_andesite": [
+      "10_8",
+      "31_13"
+    ],
+    "minecraft:polished_diorite": [
+      "9_8",
+      "10_8"
+    ],
+    "minecraft:white_stained_glass": [
+      "8_8",
+      "44_17"
+    ],
+    "minecraft:end_rod": [
+      "10_7",
+      "11_8"
+    ],
+    "minecraft:snort_pottery_sherd": [
+      "12_7",
+      "17_17"
+    ],
+    "minecraft:weathered_chiseled_copper": [
+      "59_7"
+    ],
+    "minecraft:bubble_coral_fan": [
+      "53_6"
+    ],
+    "minecraft:heart_of_the_sea": [
+      "50_6"
+    ],
+    "minecraft:horn_coral_fan": [
+      "47_6"
+    ],
+    "minecraft:honeycomb": [
+      "46_6"
+    ],
+    "minecraft:bundle": [
+      "44_6"
+    ],
+    "minecraft:stone_bricks": [
+      "10_5",
+      "58_9"
+    ],
+    "minecraft:gold_ingot": [
+      "15_5"
+    ],
+    "minecraft:spider_eye": [
+      "51_5"
+    ],
+    "minecraft:disc_fragment_5": [
+      "45_4"
+    ],
+    "minecraft:music_disc_stal": [
+      "44_4",
+      "10_7"
+    ],
+    "minecraft:netherite_scrap": [
+      "30_4",
+      "48_13"
+    ],
+    "minecraft:flow_pottery_sherd": [
+      "28_4",
+      "17_17"
+    ],
+    "minecraft:cauldron": [
+      "24_4",
+      "19_16"
+    ],
+    "minecraft:coal": [
+      "22_4"
+    ],
+    "minecraft:tube_coral_fan": [
+      "33_3"
+    ],
+    "minecraft:map": [
+      "55_3"
+    ],
+    "minecraft:blade_pottery_sherd": [
+      "65_3"
+    ],
+    "minecraft:mud_bricks": [
+      "34_2"
+    ],
+    "minecraft:wolf_armor": [
+      "29_2"
+    ],
+    "minecraft:turtle_helmet": [
+      "24_2"
+    ],
+    "minecraft:flint_and_steel": [
+      "11_2"
+    ],
+    "minecraft:netherite_ingot": [
+      "10_1"
+    ],
+    "minecraft:weeping_vines": [
+      "11_1"
+    ],
+    "minecraft:shelter_pottery_sherd": [
+      "17_1"
+    ],
+    "minecraft:netherite_upgrade_smithing_template": [
+      "20_1"
+    ],
+    "minecraft:brick": [
+      "23_1"
+    ],
+    "minecraft:beetroot_soup": [
+      "24_1"
+    ],
+    "minecraft:nether_sprouts": [
+      "35_1"
+    ],
+    "minecraft:golden_helmet": [
+      "50_1"
+    ],
+    "minecraft:crimson_fungus": [
+      "64_0"
+    ],
+    "minecraft:snowball": [
+      "36_0"
+    ],
+    "minecraft:filled_map": [
+      "21_15",
+      "55_3"
+    ],
+    "minecraft:black_stained_glass": [
+      "22_18",
+      "36_12"
+    ],
+    "minecraft:netherite_leggings": [
+      "18_18"
+    ],
+    "minecraft:flower_banner_pattern": [
+      "15_17"
+    ],
+    "minecraft:copper_trapdoor": [
+      "22_17"
+    ],
+    "minecraft:light_blue_stained_glass": [
+      "44_17"
+    ],
+    "minecraft:magma_cream": [
+      "35_16"
+    ],
+    "minecraft:bamboo": [
+      "29_16"
+    ],
+    "minecraft:magenta_candle": [
+      "62_15"
+    ],
+    "minecraft:birch_trapdoor": [
+      "26_14"
+    ],
+    "minecraft:black_shulker_box": [
+      "18_14"
+    ],
+    "minecraft:acacia_sapling": [
+      "5_13"
+    ],
+    "minecraft:tinted_glass": [
+      "11_13"
+    ],
+    "minecraft:oxidized_copper_bulb": [
+      "35_13"
+    ],
+    "minecraft:golden_horse_armor": [
+      "62_13"
+    ],
+    "minecraft:candle": [
+      "53_12"
+    ],
+    "minecraft:shulker_box": [
+      "47_12"
+    ],
+    "minecraft:brown_stained_glass": [
+      "38_12"
+    ],
+    "minecraft:white_tulip": [
+      "35_12"
+    ],
+    "minecraft:exposed_cut_copper": [
+      "6_11"
+    ],
+    "minecraft:kelp": [
+      "9_11"
+    ],
+    "minecraft:purpur_block": [
+      "57_10"
+    ],
+    "minecraft:stripped_acacia_log": [
+      "8_9"
+    ],
+    "minecraft:spruce_door": [
+      "58_8"
+    ],
+    "minecraft:flint": [
+      "28_8"
+    ],
+    "minecraft:orange_stained_glass": [
+      "23_8"
+    ],
+    "minecraft:blue_stained_glass": [
+      "20_8"
+    ],
+    "minecraft:gold_block": [
+      "16_8"
+    ],
+    "minecraft:oxidized_copper_grate": [
+      "9_8"
+    ],
+    "minecraft:black_candle": [
+      "11_9",
+      "47_12"
+    ],
+    "minecraft:music_disc_chirp": [
+      "10_7"
+    ],
+    "minecraft:heart_pottery_sherd": [
+      "12_7"
+    ],
+    "minecraft:chiseled_copper": [
+      "59_7"
+    ],
+    "minecraft:music_disc_mall": [
+      "44_4"
+    ],
+    "minecraft:sheaf_pottery_sherd": [
+      "28_4"
+    ],
+    "minecraft:howl_pottery_sherd": [
+      "65_3"
+    ],
+    "minecraft:goat_horn": [
+      "29_2"
+    ],
+    "minecraft:flower_pot": [
+      "11_1"
+    ],
+    "minecraft:nether_wart": [
+      "24_1"
+    ],
+    "minecraft:chiseled_polished_blackstone": [
+      "50_1"
+    ],
+    "minecraft:rabbit_stew": [
+      "64_0"
+    ],
+    "minecraft:wind_charge": [
+      "36_0"
+    ],
+    "minecraft:smooth_stone": [
+      "22_18"
+    ],
+    "minecraft:skull_banner_pattern": [
+      "15_17"
+    ],
+    "minecraft:wooden_sword": [
+      "22_17"
+    ],
+    "minecraft:rabbit": [
+      "35_16"
+    ],
+    "minecraft:cyan_candle": [
+      "62_15"
+    ],
+    "minecraft:gray_shulker_box": [
+      "18_14"
+    ],
+    "minecraft:jack_o_lantern": [
+      "11_13"
+    ],
+    "minecraft:poppy": [
+      "62_13"
+    ],
+    "minecraft:exposed_copper_grate": [
+      "34_13"
+    ],
+    "minecraft:brewer_pottery_sherd": [
+      "7_13"
+    ],
+    "minecraft:chicken": [
+      "53_12"
+    ],
+    "minecraft:green_stained_glass": [
+      "38_12"
+    ],
+    "minecraft:dandelion": [
+      "35_12"
+    ],
+    "minecraft:nether_star": [
+      "57_10"
+    ],
+    "minecraft:cyan_dye": [
+      "55_10"
+    ],
+    "minecraft:stripped_cherry_log": [
+      "8_9"
+    ],
+    "minecraft:end_stone_bricks": [
+      "58_9"
+    ],
+    "minecraft:stripped_birch_log": [
+      "58_8"
+    ],
+    "minecraft:cut_sandstone": [
+      "18_8"
+    ],
+    "minecraft:polished_tuff": [
+      "10_8"
+    ],
+    "minecraft:oxidized_copper_trapdoor": [
+      "9_8"
+    ],
+    "minecraft:explorer_pottery_sherd": [
+      "12_7"
+    ],
+    "minecraft:exposed_chiseled_copper": [
+      "59_7"
+    ],
+    "minecraft:iron_horse_armor": [
+      "45_4"
+    ],
+    "minecraft:music_disc_5": [
+      "44_4"
+    ],
+    "minecraft:ink_sac": [
+      "11_2"
+    ],
+    "minecraft:music_disc_ward": [
+      "10_1"
+    ],
+    "minecraft:chiseled_sandstone": [
+      "11_1"
+    ],
+    "minecraft:brown_dye": [
+      "64_0"
+    ]
+  }
+}

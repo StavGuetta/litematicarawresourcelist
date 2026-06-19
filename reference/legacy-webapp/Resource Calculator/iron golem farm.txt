@@ -1,0 +1,49 @@
++----------------------------+-------+---------+-------------------+
+| Material List for schematic 'Iron Golem + Farm' (1 of 1 regions) |
++----------------------------+-------+---------+-------------------+
+| Item                       | Total | Missing |         Available |
++----------------------------+-------+---------+-------------------+
+| Smooth Quartz Block        | 13564 |   13564 |                 0 |
+| White Concrete Powder      |  8499 |    8499 |                 0 |
+| White Wool                 |  7366 |    7366 |                 0 |
+| White Terracotta           |  6475 |    6475 |                 0 |
+| White Concrete             |  4769 |    4769 |                 0 |
+| Light Gray Terracotta      |  3442 |    3442 |                 0 |
+| White Carpet               |  2840 |    2840 |                 0 |
+| Lime Concrete              |  1639 |    1639 |                 0 |
+| Lime Terracotta            |  1605 |    1605 |                 0 |
+| Snow Block                 |  1130 |    1130 |                 0 |
+| Obsidian                   |  1064 |    1064 |                 0 |
+| Smooth Stone               |   923 |     923 |                 1 |
+| Green Wool                 |   918 |     918 |                 0 |
+| String                     |   569 |     569 |                 0 |
+| Iron Trapdoor              |   520 |     520 |                 2 |
+| Brown Terracotta           |   488 |     488 |                 0 |
+| Light Gray Concrete        |   296 |     296 |                 0 |
+| Yellow Wool                |   296 |     296 |                 0 |
+| Cyan Stained Glass         |   187 |     187 |                 0 |
+| Scaffolding                |   168 |     168 |                 0 |
+| Black Concrete             |    96 |      96 |                 0 |
+| Iron Chain                 |    96 |      96 |                 0 |
+| Light Gray Concrete Powder |    93 |      93 |                 0 |
+| Redstone Dust              |    92 |      92 |                 0 |
+| Torch                      |    50 |      50 |                 0 |
+| Magenta Bed                |    48 |      48 |                 0 |
+| Grass Block                |    34 |      34 |                 0 |
+| Red Concrete               |    32 |      32 |                 0 |
+| Redstone Repeater          |    30 |      30 |                 0 |
+| Light Gray Wool            |    28 |      28 |                 0 |
+| Red Stained Glass          |    25 |      25 |                 0 |
+| Sticky Piston              |    10 |      10 |                 0 |
+| Dirt                       |     8 |       8 |                 0 |
+| Hopper                     |     7 |       7 |                 0 |
+| Observer                   |     5 |       5 |                 0 |
+| Composter                  |     4 |       4 |                 0 |
+| Redstone Comparator        |     4 |       4 |                 0 |
+| Pale Oak Trapdoor          |     3 |       3 |                 1 |
+| Dropper                    |     1 |       1 |                 0 |
+| Lever                      |     1 |       1 |                 0 |
+| Target                     |     1 |       1 |                 0 |
++----------------------------+-------+---------+-------------------+
+| Item                       | Total | Missing |         Available |
++----------------------------+-------+---------+-------------------+
